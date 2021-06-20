@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord.js Ticket System Without Coding Episode 1)](https://www.youtube.com/watch?v=SGbQgBox_r8)
+- [Discord.js Ticket System Without Coding Episode 1](https://www.youtube.com/watch?v=SGbQgBox_r8)
 - [How to Create Your Own Rainbow Bot Without Coding Episode 2](https://www.youtube.com/watch?v=Hx0TX8a0N00)
 - [How to Make Antialt Bot Without Coding Episode 3](https://www.youtube.com/watch?v=WipRgWL_w2Q)
 - [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
