@@ -4,11 +4,7 @@
 **wasaydev/wasaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p align="center">
-  <samp>
-  <a href="https://discord.gg/6uvgmNa">
-  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasaydev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasaydev&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff)
